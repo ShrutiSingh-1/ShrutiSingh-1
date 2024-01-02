@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Shruti Singh👧🏽</h1>
 <h3 align="center">A passionate frontend developer, programmer from India :)</h3>
-<img align="right" alt="coding" width="400" scr="![image](https://github.com/ShrutiSingh-1/ShrutiSingh-1/assets/98824644/bb278023-b696-4fbc-a44a-a673097bf46c)">
+<img align="right" alt="coding" width="400" scr="![image](https://github.com/ShrutiSingh-1/ShrutiSingh-1/assets/98824644/705fc97c-5b49-47c2-ac1c-67b5acce0b2e)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrutisingh-1&label=Profile%20views&color=0e75b6&style=flat" alt="shrutisingh-1" /> </p>
