@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://dev.to/shrutisingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shrutisingh1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shruti-singh-contact" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shruti-singh-contact" height="30" width="40" /></a>
-<a href="https://instagram.com/_shruutii01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shruutii01_" height="30" width="40" /></a>
+<!--<a href="https://instagram.com/_shruutii01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shruutii01_" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/shrutisingh_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrutisingh_7" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shrutisin7xcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shrutisin7xcc" height="30" width="40" /></a>
 </p>
