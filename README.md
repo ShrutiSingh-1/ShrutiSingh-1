@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Shruti Singh👧🏽</h1>
-<h3 align="center">A passionate Web-developer, programmer from India :)</h3>
+<h3 align="center">A passionate Web-developer, Programmer from India :)</h3>
 <!-- <img align="right" alt="coding" width="400" scr="![image](https://github.com/ShrutiSingh-1/ShrutiSingh-1/assets/98824644/705fc97c-5b49-47c2-ac1c-67b5acce0b2e)"> -->
 
 
